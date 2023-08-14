@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "py-downloader"
 version = "0.1.0"
-description = "A simple Downloader written in Python"
+description = "A small library for downloading files, get data, written in Python"
 authors = ["Oleg Suvorinov <suvorinovoleg@yandex.ru>"]
 readme = "README.md"
 packages = [{include = "py_downloader"}]
